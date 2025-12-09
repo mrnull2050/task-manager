@@ -44,4 +44,12 @@ task>
 - `help` → نمایش راهنما
 - `exit` یا `quit` → خروج
 
-همین! ساده و سریع، بدون دردسر. 😎
+همین! ساده و سریع، بدون دردسر. �
+
+![Screenshot 2025-12-09 172159](https://github.com/user-attachments/assets/7d17f14d-5012-4526-9bf2-fa9e4c49a021)
+
+<img width="619" height="870" alt="image" src="https://github.com/user-attachments/assets/293265cc-4d3c-4fdc-99c2-d1f3c1917bc7" />
+
+
+
+�
